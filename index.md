@@ -32,6 +32,7 @@ The NYC study creates a Supermarket Need Index (SNI) which measures the need for
 
 <iframe src="Static.png" height="500" width="855"></iframe>
 
+
 The findings of this study are: 
 
 My recommendations include: 
