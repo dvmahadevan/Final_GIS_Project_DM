@@ -19,7 +19,7 @@ The 1/2 mile transit stop to food store shows the transit stops that are 10 minu
 
 The yellow area is the desert area that does not fall within any 1/2 mile walking distance to a food store nor to a transit stop that is close to a food store. 
 
-<iframe src="foodstore_interactive.html" height="855" width="855"></iframe>
+<iframe src="foodstore_interactive.html" height="855" width="100%"></iframe>
 
 You can explore this map [as its own web page here](foodstore_interactive.html)
 
@@ -30,7 +30,7 @@ Going to Market study highlighted the lack of neighborhood grocery stores provid
 The NYC study creates a Supermarket Need Index (SNI) which measures the need for supermarkets based on population density, low access to a car at the household level, low household incomes, high rates of diabetes, high rates of obesity, low consumption of fresh fruits and vegetables, low share of fresh food retail, and capacity for new stores. I have studied Middlesex County at the census tract level based on population density, age, health, low income, and low access to food stores using US Census data, Center for Medicare and Medicaid Services data, and US Department of Agriculture Food Environment Atlas Data. This allows a comparison of the availability of food stores in dense areas, the aging population, and health-concerned neighborhoods in Middlesex County.
 
 
-<iframe src="Static.png" height="500" width="855"></iframe>
+![Static Maps](Static.png)
 
 
 The findings of this study are: 
