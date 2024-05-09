@@ -1,6 +1,7 @@
 ## Access to Neighborhood Food Stores in Middlesex County, New Jersey
 
 Command Line GIS by Prof. Will Payne
+
 Project created by Divya Mahadevan
 
 
