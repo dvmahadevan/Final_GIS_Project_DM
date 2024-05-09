@@ -19,7 +19,7 @@ The 1/2 mile transit stop to food store shows the transit stops that are 10 minu
 
 The yellow area is the desert area that does not fall within any 1/2 mile walking distance to a food store nor to a transit stop that is close to a food store. 
 
-<iframe src="foodstore_interactive.html" height="855" width="100%"></iframe>
+<iframe src="foodstore_interactive.html" height="855" width="855"></iframe>
 
 You can explore this map [as its own web page here](foodstore_interactive.html)
 
@@ -27,4 +27,4 @@ You can explore this map [as its own web page here](foodstore_interactive.html)
 
 TEXT
 
-<iframe src="Static.png" height="855" width="100%"></iframe>
+<iframe src="Static.png" height="500" width="855"></iframe>
