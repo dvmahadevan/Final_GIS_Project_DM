@@ -32,7 +32,14 @@ The NYC study creates a Supermarket Need Index (SNI) which measures the need for
 
 ![Static Maps](Static.png)
 
+Findings:
 
-The findings of this study are: 
+The analysis reveals significant disparities in food access, particularly in low-density areas, indicating the presence of food deserts. Despite the dispersal of Replenish facilities, there's a notable gap in meeting the needs of the aging population, especially evident in Monroe Township. Mapping highlights concentrated food insecurity along the east coast of Middlesex County and in Monroe Township, necessitating urgent interventions.
 
-My recommendations include: 
+Recommendations:
+
+Firstly, enhance food accessibility by incentivizing grocery stores in underserved areas and establishing mobile markets. Secondly, expand Replenish programs to Monroe Township and similar areas with aging populations, offering tailored senior meal programs and food pantries. Lastly, implement targeted interventions in identified food insecurity hotspots, fostering community partnerships and establishing food distribution centers.
+
+Conclusion:
+
+Addressing these recommendations will mitigate food accessibility gaps and improve healthcare access, particularly for vulnerable populations. Continuous monitoring and evaluation will ensure the effectiveness of interventions, fostering a healthier, more equitable Middlesex County for all residents.
