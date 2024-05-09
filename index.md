@@ -16,6 +16,6 @@ The yellow area is the desert area that does not fall within any 1/2 mile walkin
 
 <iframe src="foodstore_interactive.html" height="855" width="100%"></iframe>
 
-You can explore this map [as its own web page here] (foodstore_interactive.html)
+You can explore this map [as its own web page here](foodstore_interactive.html)
 
 ## Additional determinants of availability of food stores in the neighborhoods. 
